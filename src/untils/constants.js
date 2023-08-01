@@ -1,4 +1,4 @@
-export const baseUrl = 'https://moviesbackend-18f7681fe3c1.herokuapp.com';
+export const baseUrl = 'https://glorious-cyan-stole.cyclic.cloud';
 
 export const beatfilmsUrl = 'https://api.nomoreparties.co/beatfilm-movies';
 
