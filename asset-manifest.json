@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/moviesfrontend/static/css/main.45ce34a4.css",
+    "main.js": "/moviesfrontend/static/js/main.99d476cf.js",
+    "static/js/787.5fef94a4.chunk.js": "/moviesfrontend/static/js/787.5fef94a4.chunk.js",
+    "static/media/avatar.jpg": "/moviesfrontend/static/media/avatar.598f6fb6a228bfd39563.jpg",
+    "static/media/Inter-Medium.woff": "/moviesfrontend/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff": "/moviesfrontend/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff": "/moviesfrontend/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2": "/moviesfrontend/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2": "/moviesfrontend/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2": "/moviesfrontend/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/profile_icon.svg": "/moviesfrontend/static/media/profile_icon.82e275f0b535928ac019e45156185868.svg",
+    "static/media/logo.svg": "/moviesfrontend/static/media/logo.a40b7754b0b4fab73e50.svg",
+    "index.html": "/moviesfrontend/index.html",
+    "static/media/search.svg": "/moviesfrontend/static/media/search.99b6633dbc8e355ba922a4a6eb5e4513.svg",
+    "static/media/Burger_menu_320.svg": "/moviesfrontend/static/media/Burger_menu_320.f4eda59cff73fa84f1ea.svg",
+    "static/media/Burger_menu.svg": "/moviesfrontend/static/media/Burger_menu.bc3f6448b5d51ce28967.svg",
+    "static/media/Close_btn.svg": "/moviesfrontend/static/media/Close_btn.4828fddbd650ab863f28.svg",
+    "static/media/find_btn.svg": "/moviesfrontend/static/media/find_btn.1396417a186beb9c18ac.svg",
+    "static/media/arrow.svg": "/moviesfrontend/static/media/arrow.bd2ba961cfad92f555cb31c4baed17a3.svg",
+    "static/media/saved.svg": "/moviesfrontend/static/media/saved.1386ccbd7ffc222cabfe.svg",
+    "static/media/off_smalltumb.svg": "/moviesfrontend/static/media/off_smalltumb.5ea0763a583272955175.svg",
+    "static/media/smalltumb.svg": "/moviesfrontend/static/media/smalltumb.efba29772b9fa12983c6.svg",
+    "main.45ce34a4.css.map": "/moviesfrontend/static/css/main.45ce34a4.css.map",
+    "main.99d476cf.js.map": "/moviesfrontend/static/js/main.99d476cf.js.map",
+    "787.5fef94a4.chunk.js.map": "/moviesfrontend/static/js/787.5fef94a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ce34a4.css",
+    "static/js/main.99d476cf.js"
+  ]
+}
